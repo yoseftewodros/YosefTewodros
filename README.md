@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 First-year **Networking/HNS** student at LG-KOICA HOPE TVET College
-- 🏆 Currently ranked **2nd in my cohort**, working toward the top spot for a graduate opportunity abroad
+
 - 💻 I build full-stack systems using **PHP, MySQL, React, and Firebase**
 - 🛠️ My flagship project, an **Online Examination System**, was formally recognized by my college
 - 📊 I've also built a **Student Management System**, a **Pharmacy Management System** (with POS, inventory, payroll), and business websites for real clients
