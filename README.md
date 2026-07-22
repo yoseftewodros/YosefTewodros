@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Networking & Systems (HNS) | Building practical software that solves real problems</h3>
 
 <p align="center">
-  🇪🇹 Based in Ethiopia — Networking/HNS Diploma Student & Class Representative
+  🇪🇹 Based in Ethiopia — Networking/HNS Diploma Student.
 </p>
 
 ---
